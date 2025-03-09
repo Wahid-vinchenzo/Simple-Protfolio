@@ -2,9 +2,9 @@
 # Sadman Wahid's Portfolio - Full Stack MERN Developer
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![Contributors](https://img.shields.io/github/contributors/Wahid-vinchenzo/YOUR_REPO_NAME)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/network/members)
-[![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/Wahid-vinchenzo/Simple-Protfolio)](https://github.com/Wahid-vinchenzo/Simple-Protfolio/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/Wahid-vinchenzo/Simple-Protfolio)](https://github.com/Wahid-vinchenzo/Simple-Protfolio/network/members)
+[![Stars](https://img.shields.io/github/stars/Wahid-vinchenzo/Simple-Protfolio)](https://github.com/Wahid-vinchenzo/Simple-Protfolio/stargazers)
 
 ## Overview
 
